@@ -1,0 +1,21 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+93,0,1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61.175,E31,S
+773,0,2,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,10.5,E77,S
+488,0,1,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,29.7,B37,C
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,C
+660,0,1,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,113.275,D48,C
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,C
+22,1,2,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,S
+453,0,1,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,27.75,C111,C
+663,0,1,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,5727,25.5875,E58,S
+7,0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,S
+219,1,1,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,C
+716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,7.65,F G73,S
+140,0,1,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,B86,C
+807,0,1,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,0.0,A36,S
+699,0,1,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,C
+149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26.0,F2,S
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,C125,S
+67,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,F33,S
+435,0,1,"Silvey, Mr. William Baird",male,50.0,1,0,13507,55.9,E44,S
+98,1,1,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,63.3583,D10 D12,C
